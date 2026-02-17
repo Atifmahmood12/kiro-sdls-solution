@@ -21,8 +21,8 @@ jobs:
           distribution: 'temurin'
           cache: 'maven'
 
-      - name: Run tests
-        run: mvn -q test
+      - name: Run tests and quality checks
+        run: mvn -q verify
 
       - name: Build Docker image
         run: docker build -t poc-app:ci .

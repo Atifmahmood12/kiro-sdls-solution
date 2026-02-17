@@ -39,6 +39,28 @@ Execute all unit tests:
 mvn test
 ```
 
+## Quality Gates
+
+Run quality checks and verify build (tests + checkstyle):
+```bash
+mvn verify
+```
+
+This command:
+- Runs all unit tests
+- Executes Checkstyle code quality checks
+- Fails the build if there are violations
+
+**Current violations:** 0
+
+Checkstyle rules enforced:
+- Maximum line length: 120 characters
+- Maximum file length: 500 lines
+- Proper naming conventions
+- Consistent code style
+- Unused imports detection
+- Whitespace consistency
+
 ## Run with Docker
 
 ### Option 1: Using setup script (automated)
