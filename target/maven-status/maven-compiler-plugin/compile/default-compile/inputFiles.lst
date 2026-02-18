@@ -1,2 +1,9 @@
 /Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/Application.java
 /Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/controller/HealthController.java
+/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/controller/TaskController.java
+/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/dto/CreateTaskRequest.java
+/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/exception/GlobalExceptionHandler.java
+/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/model/Task.java
+/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/model/TaskStatus.java
+/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/repository/TaskRepository.java
+/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/service/TaskService.java

@@ -1,2 +1,9 @@
-com/kiro/sdls/controller/HealthController.class
+com/kiro/sdls/model/TaskStatus.class
+com/kiro/sdls/repository/TaskRepository.class
 com/kiro/sdls/Application.class
+com/kiro/sdls/controller/HealthController.class
+com/kiro/sdls/service/TaskService.class
+com/kiro/sdls/dto/CreateTaskRequest.class
+com/kiro/sdls/exception/GlobalExceptionHandler.class
+com/kiro/sdls/controller/TaskController.class
+com/kiro/sdls/model/Task.class

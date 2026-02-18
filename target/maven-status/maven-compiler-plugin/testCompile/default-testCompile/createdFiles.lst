@@ -1,1 +1,4 @@
+com/kiro/sdls/service/TaskServiceTest.class
+com/kiro/sdls/controller/TaskControllerTest.class
+com/kiro/sdls/repository/TaskRepositoryTest.class
 com/kiro/sdls/controller/HealthControllerTest.class

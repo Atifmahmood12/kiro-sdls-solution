@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="10.12.5">
+<file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/dto/CreateTaskRequest.java">
+</file>
+<file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/repository/TaskRepository.java">
+</file>
 <file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/Application.java">
 </file>
+<file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/controller/TaskController.java">
+</file>
 <file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/controller/HealthController.java">
+</file>
+<file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/model/TaskStatus.java">
+</file>
+<file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/model/Task.java">
+</file>
+<file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/service/TaskService.java">
+</file>
+<file name="/Volumes/Development/Kiro/kiro-sdls-solution/src/main/java/com/kiro/sdls/exception/GlobalExceptionHandler.java">
 </file>
 </checkstyle>
